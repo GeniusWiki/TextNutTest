@@ -35,5 +35,5 @@ Let is ending text with tag
 
 ---
 
-+Sample+ +Markup Test+
++Sample+
 
