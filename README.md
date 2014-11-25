@@ -33,5 +33,3 @@ Also won't translate {fn}macro of footnote{fn}
 OK, this is [textnut](http://textnutwriter.com) link{fn}Here some footnote with simple **bold text** format{fn}.
 Let is ending text with tag
 
----
-
